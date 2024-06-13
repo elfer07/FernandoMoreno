@@ -3,8 +3,7 @@
 </div>
 <div>
     <h3>👨‍🎓 Computer Technician</h3>
-    <h3>📱 Android Developer</h3>
-    <h3>💻 Web Full Stack Jr</h3>
+    <h3>📱 Android & iOS Developer</h3>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
